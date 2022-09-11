@@ -1,0 +1,23 @@
+.navb{
+
+border-top: 2px;
+font-size: 25px;
+word-spacing: 1cm;
+font-family: Georgia, Times, 'Times New Roman', serif;
+font: bold;
+margin: right 6px;
+background-color: rgb(238, 110, 210);
+text-align: right;
+box-sizing: border-box;
+padding-right: 10px;
+
+
+margin-right: 5px;
+
+}
+a{
+    color: black;
+    border: 20px;
+    text-shadow: 1px 1px 1px #000000;
+}
+
